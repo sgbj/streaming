@@ -2,7 +2,7 @@
 
 Proof of concept streaming platform using RTMP and HLS.
 
-Built with ASP.NET Core, EF Core, SignalR, React, NGINX, nginx-rtmp-module, FFmpeg, and Docker.
+Built with ASP.NET Core, EF Core, SignalR, React, Chakra UI, NGINX, nginx-rtmp-module, FFmpeg, and Docker.
 
 ![Live channels](https://user-images.githubusercontent.com/5178445/136648527-5fcc1ad7-a576-471c-8afa-f0dd345bd6e1.png)
 
