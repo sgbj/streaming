@@ -10,7 +10,7 @@ Built with ASP.NET Core, EF Core, SignalR, React, NGINX, nginx-rtmp-module, FFmp
 
 ## How it works
 
-This project uses the same protocols as Twitch. OBS connects to NGINX via RTMP and FFmpeg transcodes the stream into HLS, which gets served up by ASP.NET Core. Chat is powered by SignalR.
+This project uses the same protocols as Twitch. OBS connects to NGINX via RTMP and FFmpeg transcodes the stream into HLS, which gets served up by ASP.NET Core and React. Chat is powered by SignalR.
 
 RTMP and HLS are older protocols, but they were chosen for this project because they're still used by popular streaming platforms. A better implementation might use RTSP or WebRTC.
 
